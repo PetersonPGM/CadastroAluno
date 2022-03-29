@@ -1,0 +1,1 @@
+Produto X, Categoria = Limpeza, Tipo do produto = Detergente, Marca = Ype, 1.9

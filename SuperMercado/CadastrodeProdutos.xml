@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <Produto id="1">
+        <Categoria>Limpeza</Categoria>
+        <Tipo>Detergente</Tipo>
+        <Marca>
+            <Nomemarca>Ype</Nomemarca>
+            <Preco>1.9</Preco>
+        </Marca>
+    </Produto>
+</Produtos>
