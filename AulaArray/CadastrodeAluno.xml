@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alunos>
+    <Aluno id="1">
+        <Nome>Pter</Nome>
+        <CPF>504</CPF>
+        <Curso>Manu</Curso>
+        <Endereco>
+            <Rua>Celso</Rua>
+            <Numero>231</Numero>
+            <Bairro>Jd</Bairro>
+            <Cidade>SBC</Cidade>
+            <Estado>SP</Estado>
+            <CEP>9761</CEP>
+        </Endereco>
+    </Aluno>
+</Alunos>

@@ -1,0 +1,1 @@
+AlunoX, Nome = Pter, CPF = 504, Curso = Manu, Endereço = Celso, 231, Jd, SBC, SP, 9761
